@@ -1,0 +1,94 @@
+ul li a{
+    font-family: Arial, Helvetica, sans-serif;
+    margin:30px;
+    padding: 20px;
+    text-decoration: none;
+    font-size: large;
+    font-weight: 700;
+    color: rgb(255, 255, 255)
+}
+
+ul li{
+    margin: 30px;
+    display: inline;
+}
+
+ul{
+    background-color: rgb(24, 118, 206);
+    height: 90px;
+    width: 1300px;
+    line-height: 95px;
+}
+nav{
+    position: absolute;
+    top: -16px;
+    left: 0px;
+
+}
+
+ul li a:hover{
+    color: rgb(219, 221, 89);
+}
+
+.image1{
+    position: absolute;
+    left: -10px;
+}
+.iframe1{
+    position: absolute;
+    right: 300px;
+    bottom: -430px;
+}
+.iframe2{
+    position: absolute;
+    right: 80px;
+    bottom: -430px
+    
+}
+.image2{
+    position: absolute;
+    left: -40px;
+    top: -30px;
+}
+.image3{
+    position: absolute;
+    top: 1020px;
+    left: 0px;
+}
+.text1{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: whitesmoke;
+    position: absolute;
+    left: 30px;
+    top: 1200px;
+    font-weight: 700;
+    font-size: 50px;
+
+}
+
+.border1{
+    border: solid rgb(21, 96, 165) 100px;
+    width: 1140px;
+    position: absolute;
+    top: 1600px;
+    left: 0px;
+}
+/* .mail{
+    font-size: 30px;
+    position: absolute;
+    left: 20px;
+    top: 1700px;
+} */
+.search{
+    position: absolute;
+    right: 10px;
+    top: 35px;
+}
+.write2{
+    background-color: rgb(21, 96, 165); ;
+
+    position: absolute;
+    bottom: -1200px;
+    padding: 10x;
+ }
+
